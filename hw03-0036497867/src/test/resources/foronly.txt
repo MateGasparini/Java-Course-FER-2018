@@ -1,0 +1,1 @@
+{$ FOR index 1 10 1 $}{$ END $}{$ FOR abc "a" "c" $}{$ END $}

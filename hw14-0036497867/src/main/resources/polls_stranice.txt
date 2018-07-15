@@ -1,0 +1,8 @@
+INSERT INTO Polls (title, message) VALUES ('Glasanje za omiljenu web-stranicu:', 'Od sljedećih web-stranica, koja Vam je najbolja? Kliknite na link za pristupanje web-stranici!')
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('Reddit', 'https://www.reddit.com', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('Facebook', 'https://www.facebook.com', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('YouTube', 'https://www.youtube.com', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('Twitter', 'https://twitter.com', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('Ferko', 'https://ferko.fer.hr', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('FerWeb', 'http://www.fer.unizg.hr', ?, 0)
+INSERT INTO PollOptions (optionTitle, optionLink, pollID, votesCount) VALUES ('Stack Overflow', 'https://stackoverflow.com', ?, 0)

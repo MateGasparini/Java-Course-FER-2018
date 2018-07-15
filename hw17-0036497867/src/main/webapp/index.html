@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ 
+ <title>Galerija</title>
+ 
+ <style type="text/css">
+  h1 {
+  	color: #556666;
+  	font-style: italic;
+  	text-align: center;
+  }
+  
+  h2 {
+  	color: #556666;
+  	font-style: italic;
+  }
+  
+  p {
+  	color: #556666;
+  	font-style: italic;
+  }
+  
+  div.tags {
+  	max-width: 1000px;
+  }
+  
+  div.tags input {
+  	color: #DDEEFF;
+  	background-color: #0099BB;
+  	border: none;
+  	padding: 14px 32px 16px;
+  	font-weight: bold;
+  	font-variant: small-caps;
+  	font-size: larger;
+  	cursor: pointer;
+  	margin: 0px 10px 10px 0px;
+  	border-radius: 6px;
+  }
+  
+  div.tags input:hover {
+  	color: #FFFFFF;
+  	background-color: #007799;
+  }
+  
+  div.thumbs {
+  	max-width: 1000px;
+  }
+  
+  div.thumbs img {
+  	box-shadow: 0 4px 4px 0 rgba(0, 34, 68, 0.1), 0 2px 2px 0 rgba(0, 34, 68, 0.09);
+   	filter: grayscale(40%);
+  	border-radius: 2px;
+  	cursor: pointer;
+  	margin-top: 10px;
+  	margin-left: 5px;
+  	margin-right: 5px;
+  }
+  
+  div.thumbs img:hover {
+  	box-shadow: 0 4px 8px 0 rgba(0, 34, 68, 0.2), 0 2px 2px 0 rgba(0, 34, 68, 0.19);
+  	filter: grayscale(0%);
+  }
+  
+  div.image {
+  	font-style: oblique;
+  	text-align: center;
+  }
+  
+  div.image img {
+  	max-width: 1200px;
+  	max-height: 800px;
+  }
+ </style>
+ 
+ <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+ <script type="text/javascript" src="js/index.js"></script>
+ 
+</head>
+<body>
+ 
+ <h1>Galerija slika</h1>
+ <h2>Dobrodošli!</h2>
+ 
+ <p>
+  Odaberite jedan od tagova za prikaz sličica.
+  Klikom na neku od dobivenih sličica prikazat će se slika u punoj veličini.
+ </p>
+ 
+ <form>
+  <div id="tags" class="tags">&nbsp;</div>
+ </form>
+ 
+ <div id="thumbs" class="thumbs">&nbsp;</div>
+ 
+ <div id="image" class="image">&nbsp;</div>
+ 
+</body>
+</html>

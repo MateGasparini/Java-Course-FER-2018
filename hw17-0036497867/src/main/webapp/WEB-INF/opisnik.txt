@@ -1,0 +1,60 @@
+lion.png
+Lav
+sisavci, kopno, png
+giraffe.png
+Žirafa
+sisavci, kopno, png
+dog.png
+Pas
+sisavci, kopno, png
+whale.jpg
+Kit
+sisavci, voda, jpg
+dolphin.jpg
+Dupin
+sisavci, voda, jpg
+monkey.png
+Majmun
+sisavci, kopno, png
+tiger.png
+Tigar
+sisavci, kopno, png
+eagle.png
+Orao
+ptice, zrak, png
+penguin.jpg
+Pingvin
+ptice, kopno, voda, jpg
+shark.jpg
+Morski pas
+ribe, voda, jpg
+rabbit.png
+Zec
+sisavci, kopno, png
+kangaroo.png
+Klokan
+sisavci, kopno, png
+bear.png
+Medvjed
+sisavci, kopno, png
+ostrich.png
+Noj
+ptice, kopno, png
+wolf.png
+Vuk
+sisavci, kopno, png
+horse.png
+Konj
+sisavci, kopno, png
+mosquito.png
+Komarac
+kukci, zrak, png
+piranha.jpg
+Piranja
+ribe, voda, jpg
+parrot.png
+Papiga
+ptice, zrak, png
+frog.jpg
+Žaba
+vodozemci, voda, kopno, jpg
